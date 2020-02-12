@@ -394,7 +394,7 @@
             "Key": "d78e0533-ed2a-46c5-93e6-f800842366be",
             "Value": {
                 "id": "000c46e0-c785-48b5-9933-30cbde3cc662",
-                "resourcePath": "objects\\chain_A_01\\chain_A_01.yy",
+                "resourcePath": "objects\\info_block\\info_block.yy",
                 "resourceType": "GMObject"
             }
         },
