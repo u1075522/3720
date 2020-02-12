@@ -1,7 +1,7 @@
 x_diff = self.x - Player.x
 y_diff = self.y - Player.y
-self.x += x_diff/10
-self.y += y_diff/10
+self.x += x_diff/2
+self.y += y_diff/2
 
 
 
