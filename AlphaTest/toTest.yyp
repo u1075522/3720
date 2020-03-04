@@ -1,0 +1,2444 @@
+{
+    "id": "23b545be-2de6-4485-b363-95927cd09d46",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": true,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "d13a56b9-f54d-4aac-988a-e1c9374c7ed8",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "54dd07d0-516d-4c6d-a7a4-95daf9b359b9",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "02ca8991-89ab-4f90-8c53-217a2589b156",
+            "Value": {
+                "id": "13d95b71-b4e1-428f-8f87-f9a0a30ecbb2",
+                "resourcePath": "views\\02ca8991-89ab-4f90-8c53-217a2589b156.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "05a1a44b-65ef-4aed-aabc-24aab084bd76",
+            "Value": {
+                "id": "6a8f9bc7-5244-413f-ae1d-93206dd999e4",
+                "resourcePath": "objects\\Electronic_Samsung_Monitor02_Obj\\Electronic_Samsung_Monitor02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "05e5d18f-c119-492f-abe0-d4db4a86d87d",
+            "Value": {
+                "id": "fd283689-cb7d-4fd6-b444-8b5265b5fb1f",
+                "resourcePath": "objects\\Electronic_Dell_Monitor03_Obj\\Electronic_Dell_Monitor03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08844605-c28e-4504-b40d-02f4a2b52dc7",
+            "Value": {
+                "id": "b3da0409-9904-4403-89b5-0c4d8c792e4b",
+                "resourcePath": "objects\\chain_C_01\\chain_C_01.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0a45ecf0-ffd0-4ff9-a27a-0ac5cb2df35f",
+            "Value": {
+                "id": "ccee8d85-66b7-41a0-acf2-990ecd359ac1",
+                "resourcePath": "sprites\\Electronic_Alienware_Laptop_02\\Electronic_Alienware_Laptop_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a5f3777-b37d-47f3-9113-b44530b4b614",
+            "Value": {
+                "id": "83287f47-675c-42ec-8333-d748676f7e5c",
+                "resourcePath": "objects\\PlayerHit\\PlayerHit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0b21f310-8ff1-4510-bf89-f245b52a34d5",
+            "Value": {
+                "id": "18a22d6b-8958-4e4a-bb02-76b003414989",
+                "resourcePath": "objects\\ObjChoosingLabelbg\\ObjChoosingLabelbg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0c36d097-2694-4758-8ee3-d9f65aecadef",
+            "Value": {
+                "id": "b61247ff-fb92-4df4-a48e-786d8424c8ff",
+                "resourcePath": "objects\\ObjAlienwareLaptop1\\ObjAlienwareLaptop1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0c788046-71dd-4f0a-927e-01728fd07498",
+            "Value": {
+                "id": "e8cc5258-9c24-4e49-b2e3-4bf23bcb469d",
+                "resourcePath": "objects\\Electronic_Alienware_Laptop04_Obj\\Electronic_Alienware_Laptop04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ccc5103-e6ac-4d67-904f-6be54b22fd67",
+            "Value": {
+                "id": "f0cc944d-ef96-4b19-a136-0e11a02ab319",
+                "resourcePath": "objects\\Electronic_Alienware_Monitor02_Obj\\Electronic_Alienware_Monitor02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0d597ca4-e505-4de9-aae3-8c28d23a25fc",
+            "Value": {
+                "id": "a36b890f-4f0e-48ed-ab89-25a7463786d4",
+                "resourcePath": "views\\0d597ca4-e505-4de9-aae3-8c28d23a25fc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0df6cff6-ec08-4b4d-805e-88605e15b9da",
+            "Value": {
+                "id": "8c7d7bf6-932d-40c7-a733-20ad1053155c",
+                "resourcePath": "objects\\Electronic_Alienware_Monitor01_Obj\\Electronic_Alienware_Monitor01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f020055-899b-4746-b2bf-8bd7c1b7168f",
+            "Value": {
+                "id": "f0ad3d39-8a99-4449-96f1-17603eba8f4f",
+                "resourcePath": "scripts\\PlayerMeleeAttack\\PlayerMeleeAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0f22ed4b-6162-4245-870d-03df5e4d1502",
+            "Value": {
+                "id": "b83cc124-08cf-47f3-bfa2-be30959192aa",
+                "resourcePath": "sprites\\Electronic_Dell_Monitor_02\\Electronic_Dell_Monitor_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "126c15ee-c9b7-43f4-853f-9dcd1b332298",
+            "Value": {
+                "id": "15ca93bb-3e58-4db8-8ee6-67a29ec55c0c",
+                "resourcePath": "sprites\\Electronic_Apple_Laptop_01\\Electronic_Apple_Laptop_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12850e65-c371-4499-bbe0-d94e28c4a263",
+            "Value": {
+                "id": "e876ee4b-a97e-42ef-b845-b40c3ef05a8a",
+                "resourcePath": "objects\\Electronic_Razor_Laptop01_Obj\\Electronic_Razor_Laptop01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "132a4ab7-010d-4f88-8a57-0df121e58223",
+            "Value": {
+                "id": "597c64a4-198a-4e7f-8e5e-21b3583ace05",
+                "resourcePath": "objects\\ObjRazorLaptop1\\ObjRazorLaptop1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1622f668-bf28-4dbe-b0c6-0b0315a6b2dc",
+            "Value": {
+                "id": "1eb1d0f4-6887-4308-9f8f-d6cfd7a09f7a",
+                "resourcePath": "sprites\\SprWhite\\SprWhite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17558b71-3a69-4c9f-98e3-edad7127db6d",
+            "Value": {
+                "id": "2b965a1f-0827-4b3a-8acc-232d7b5369fc",
+                "resourcePath": "sprites\\Electronic_Dell_Monitor_01\\Electronic_Dell_Monitor_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "18700c9a-95ca-48f4-a95a-c978391a24b1",
+            "Value": {
+                "id": "924cbb63-4eb0-4963-b77b-f9d440bf92db",
+                "resourcePath": "views\\18700c9a-95ca-48f4-a95a-c978391a24b1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "191814ca-20a1-4013-a0d7-c0dad4e3c68a",
+            "Value": {
+                "id": "95d34d1d-0dc2-43a7-be59-e8502a4ab0f0",
+                "resourcePath": "sprites\\CAMERA\\CAMERA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1974d916-e867-4e5d-a125-db56300e871b",
+            "Value": {
+                "id": "0388bcb1-fa85-4e38-8a3e-602e81c52cd8",
+                "resourcePath": "objects\\ObjLenovo\\ObjLenovo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "19b10f3a-7c9a-462d-8000-d3a44d9c7044",
+            "Value": {
+                "id": "0becfcbb-58e6-4763-883f-2c2d7089e884",
+                "resourcePath": "scripts\\PlayerSelectICON\\PlayerSelectICON.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1acd8b25-b347-4bc6-bd2a-5c9765995eb1",
+            "Value": {
+                "id": "5da36933-b108-401a-9436-aa1686ed7380",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "1b10a800-3d7f-4f6e-b45f-5869f4309568",
+            "Value": {
+                "id": "fcc5e2c8-b924-4f0b-a85d-7bd79d315d61",
+                "resourcePath": "objects\\ObjAppleMonitor3\\ObjAppleMonitor3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1bd770e0-5d6f-4d0e-af03-bb0078da253c",
+            "Value": {
+                "id": "ff266bb2-6ea1-48a4-a21c-57089999bbb5",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1be5e741-44c8-4f1b-879e-8e6720412146",
+            "Value": {
+                "id": "40f7ffa8-989e-4ee1-bb23-308b62b8bef4",
+                "resourcePath": "scripts\\PlayerForceMovement\\PlayerForceMovement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1be6154a-ad9c-4529-a1e1-42ca81d68da1",
+            "Value": {
+                "id": "29580e2e-f5fa-4f01-892f-9ad0a56f9180",
+                "resourcePath": "views\\1be6154a-ad9c-4529-a1e1-42ca81d68da1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c6216ea-acc2-4795-b2d4-3bde341d53d3",
+            "Value": {
+                "id": "cd2345cd-bf90-4335-8c66-c6c7ca0f1a7e",
+                "resourcePath": "sprites\\Electronic_Lenovo_Monitor_05\\Electronic_Lenovo_Monitor_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c6e57b9-af02-49aa-9a10-6e5992c92290",
+            "Value": {
+                "id": "a102f3b8-4365-421e-800f-c0b5e7a2aa0a",
+                "resourcePath": "objects\\Monitor\\Monitor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c96d784-8d92-4e0d-825b-ccfa977f52d9",
+            "Value": {
+                "id": "7bbe8073-a561-49d7-bba5-825bb93f4dd7",
+                "resourcePath": "objects\\Electronic_Alienware_Laptop03_Obj\\Electronic_Alienware_Laptop03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1cdca5ca-e217-4d45-9097-15a372581a04",
+            "Value": {
+                "id": "55b04fb5-a367-42ec-a3cf-2902ebb3d251",
+                "resourcePath": "objects\\ObjBrown\\ObjBrown.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d47d2fd-0708-4a31-8874-26d25bd22e04",
+            "Value": {
+                "id": "166cd908-afd7-4b9b-adf4-8e3e20924389",
+                "resourcePath": "objects\\ObjDellLaptop3\\ObjDellLaptop3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1d643077-38d3-4395-86ac-2a96d68aeb6c",
+            "Value": {
+                "id": "d36d3bcf-c4ee-4fdc-a60e-accc6651e979",
+                "resourcePath": "views\\1d643077-38d3-4395-86ac-2a96d68aeb6c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1ea4c6f3-83f2-401e-97bc-11be1c5c3749",
+            "Value": {
+                "id": "dc496e9e-1d6e-4706-9030-c1d4010bf423",
+                "resourcePath": "sprites\\SprApple\\SprApple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1eade726-13a6-4aea-92f6-8caa4d704397",
+            "Value": {
+                "id": "f7cd3ea4-7c4b-4091-a246-8fc9e9009829",
+                "resourcePath": "objects\\Electronic_Dell_Monitor01_Obj\\Electronic_Dell_Monitor01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1fd750e4-12c4-4874-8360-f0549eceea21",
+            "Value": {
+                "id": "a7a8e1e6-9a76-4cb8-a93e-0dbe31f58871",
+                "resourcePath": "views\\1fd750e4-12c4-4874-8360-f0549eceea21.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "207b3159-f489-40e3-94ac-0be11f8da31a",
+            "Value": {
+                "id": "e9fb186d-705b-49a6-b561-6e6ead2f725e",
+                "resourcePath": "objects\\Player\\Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "208f9d35-7385-48e1-9ce7-23308e59033d",
+            "Value": {
+                "id": "915022ea-9d8e-4a29-a0fe-ae79707fe62a",
+                "resourcePath": "sprites\\testButton\\testButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "20e58646-1211-43e8-b9e2-be53261e5cc2",
+            "Value": {
+                "id": "69baf0da-254e-4f52-a960-d28fedca0390",
+                "resourcePath": "objects\\Electronic_Razor_Laptop03_Obj\\Electronic_Razor_Laptop03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "21d30854-4585-41b7-8eb1-9cac7561c311",
+            "Value": {
+                "id": "cff7ab59-0070-45ee-8317-45d308e3f377",
+                "resourcePath": "views\\21d30854-4585-41b7-8eb1-9cac7561c311.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "23f03f6f-6d37-4428-8f45-c68d74693c52",
+            "Value": {
+                "id": "1357e1e7-4238-4276-b0b1-4116d33a1ac6",
+                "resourcePath": "sprites\\Cursor_action\\Cursor_action.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "24208bec-a0d5-48b0-b1cb-3d892d222f74",
+            "Value": {
+                "id": "2fa3087c-4ee4-4b5d-8ad0-e4ef2f5edf40",
+                "resourcePath": "sprites\\SprMacbook\\SprMacbook.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25c7a75a-feb1-4671-b0b9-d340d0d145d5",
+            "Value": {
+                "id": "190132a8-1d85-43da-943d-c4385a49bac9",
+                "resourcePath": "sprites\\Electronic_Samsung_Monitor_05\\Electronic_Samsung_Monitor_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25e97940-d6e0-4d27-b0ea-89c13b1bdb4a",
+            "Value": {
+                "id": "f1a64602-7a47-4c08-9c46-12ec1cb55a1d",
+                "resourcePath": "objects\\Electronic_Razor_Laptop04_Obj\\Electronic_Razor_Laptop04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2638a035-6969-4371-8af0-880af739977f",
+            "Value": {
+                "id": "87060bf8-d8e1-42c0-a008-376d80f82beb",
+                "resourcePath": "sprites\\CHATTINGBOX\\CHATTINGBOX.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "265b7a30-84ec-46c7-b674-83b114341cc7",
+            "Value": {
+                "id": "ba9bb0e8-6200-4e09-8a9a-95975e6641f3",
+                "resourcePath": "views\\265b7a30-84ec-46c7-b674-83b114341cc7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "26a02841-2327-4134-8ada-68083cfe3edd",
+            "Value": {
+                "id": "f9499ee7-b4ec-401f-b775-04a428b45bc2",
+                "resourcePath": "objects\\Electronic_Samsung_Monitor03_Obj\\Electronic_Samsung_Monitor03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "26e425a2-5c75-4c16-9a23-3308958c4236",
+            "Value": {
+                "id": "6267d455-b601-41c5-860e-3a66a0af7fdd",
+                "resourcePath": "views\\26e425a2-5c75-4c16-9a23-3308958c4236.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "273fc502-3e99-4de3-8bd8-dbfa8d5cd1fd",
+            "Value": {
+                "id": "4645aaf1-c6ac-43b2-a29f-43c1e1df18c9",
+                "resourcePath": "views\\273fc502-3e99-4de3-8bd8-dbfa8d5cd1fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "27793b16-a489-47d4-8498-d0b7ff2b1aa7",
+            "Value": {
+                "id": "13505e8c-1a38-4f98-bcdb-ca504b75cd53",
+                "resourcePath": "objects\\ObjAppleMonitor\\ObjAppleMonitor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "27fded79-3a4b-4f17-aae0-d484b279995f",
+            "Value": {
+                "id": "a5e5c470-407a-43ec-9c16-446452d906e2",
+                "resourcePath": "views\\27fded79-3a4b-4f17-aae0-d484b279995f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2cf74d47-01ba-4daa-854d-bdbac441aa83",
+            "Value": {
+                "id": "e39058a4-e67f-40af-aac0-2649c4c388c2",
+                "resourcePath": "objects\\ObjDellMonitor5\\ObjDellMonitor5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2d229595-769a-4303-85a9-43d6a2d0498c",
+            "Value": {
+                "id": "059fb4d6-b7b5-4bb5-99c2-f4f68c11acdd",
+                "resourcePath": "views\\2d229595-769a-4303-85a9-43d6a2d0498c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d8884a6-729b-4842-9152-e712bad42168",
+            "Value": {
+                "id": "eecfa234-9025-4c2b-b580-d9901b80c74a",
+                "resourcePath": "views\\2d8884a6-729b-4842-9152-e712bad42168.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2dfa64bc-661b-4d56-a3c8-b28d14b0f464",
+            "Value": {
+                "id": "0dc18776-86ef-41f4-a361-c0cfa228eb74",
+                "resourcePath": "views\\2dfa64bc-661b-4d56-a3c8-b28d14b0f464.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2dff09b6-6fd3-463c-b0c6-82df0ddc9b80",
+            "Value": {
+                "id": "0e5bac7b-d396-4e25-ac56-30ffcdc3389e",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2ea48fe4-3ac0-4204-8e4f-64065c2fea6b",
+            "Value": {
+                "id": "4cda71f9-aa9a-4edd-a2c7-0f5c5510ec1c",
+                "resourcePath": "sprites\\Electronic_Samsung_Monitor_03\\Electronic_Samsung_Monitor_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "302d1e4a-b487-419b-89d6-4a730febd131",
+            "Value": {
+                "id": "29754408-3c75-42fa-9ed9-a3aed465b742",
+                "resourcePath": "sprites\\Electronic_Dell_Laptop_01\\Electronic_Dell_Laptop_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "30f42979-e26f-41fb-92dc-1a2724754b7f",
+            "Value": {
+                "id": "274c7aa7-49f9-453e-af68-9ac9c6a7a276",
+                "resourcePath": "objects\\Electronic_Apple_Laptop_01_Obj\\Electronic_Apple_Laptop_01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31620c0d-0c5a-4eca-b9f6-1dc90c7425be",
+            "Value": {
+                "id": "99d00d3e-aab8-4d0b-8795-917c69456cd1",
+                "resourcePath": "sprites\\Electronic_Dell_Laptop_02\\Electronic_Dell_Laptop_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3195dacd-94d6-4aa5-9731-ad69dd23d753",
+            "Value": {
+                "id": "05852966-65d0-43a4-a791-f4a470445f9a",
+                "resourcePath": "scripts\\script5\\script5.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "31966e98-88b3-4b26-bf08-fa5b2c27678a",
+            "Value": {
+                "id": "98cf67fa-4fec-408e-92c4-f68474796d4d",
+                "resourcePath": "sprites\\SprUI\\SprUI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31a65914-da12-4f3f-b7dd-f18d05a9b56b",
+            "Value": {
+                "id": "9553ed07-54b8-452e-bc9f-11f064323354",
+                "resourcePath": "objects\\keyBoard\\keyBoard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3313a225-019c-4d4f-804e-272b9fffaca0",
+            "Value": {
+                "id": "afd49294-dba4-4a65-ac26-6e782676b705",
+                "resourcePath": "objects\\Electronic_Lenovo_Monitor02_Obj\\Electronic_Lenovo_Monitor02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "334f881b-e92a-4f6f-bfc4-b37f01799bf0",
+            "Value": {
+                "id": "1d45ad4e-5036-4f65-8836-5400c786d8b7",
+                "resourcePath": "views\\334f881b-e92a-4f6f-bfc4-b37f01799bf0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "339234e7-3b10-45d2-83e3-c8c7f48252c2",
+            "Value": {
+                "id": "5ac02c6a-3baa-4211-bb53-a30a445cc36b",
+                "resourcePath": "objects\\ObjAppleLaptop\\ObjAppleLaptop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "33d996d5-9440-40df-82b6-55f5534cd397",
+            "Value": {
+                "id": "081625f8-7835-4d8c-8309-2c3231ce8112",
+                "resourcePath": "sprites\\Electronic_Ailenware_Monitor_01\\Electronic_Ailenware_Monitor_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "35705cb7-5069-42fa-a3fd-62fe4cc8ec6c",
+            "Value": {
+                "id": "9bb48712-301d-4c02-9347-4ef3e2fea0b7",
+                "resourcePath": "objects\\chain_C_02\\chain_C_02.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "359a1ad6-2cb8-42e5-9595-e46da5a09072",
+            "Value": {
+                "id": "e08e09a8-0712-44aa-a63e-b8ca24665475",
+                "resourcePath": "objects\\ObjClose\\ObjClose.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3633f2e3-8280-418b-9752-b93ed850c409",
+            "Value": {
+                "id": "618f66d1-4ea1-4b60-8ebc-3faddeb235de",
+                "resourcePath": "views\\3633f2e3-8280-418b-9752-b93ed850c409.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36783c3c-efbe-43df-9579-239c40c6e04c",
+            "Value": {
+                "id": "485f5069-c17a-40d2-8631-d6b04fe45bc7",
+                "resourcePath": "sprites\\PAPER2\\PAPER2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "373d1c17-5496-4bf9-ac7e-49a51b2afdd7",
+            "Value": {
+                "id": "6d7139cb-fc26-46d2-8daf-0fa4ee021b9c",
+                "resourcePath": "views\\373d1c17-5496-4bf9-ac7e-49a51b2afdd7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "382c191d-56e2-42d2-92b2-0d36d74f1693",
+            "Value": {
+                "id": "740da9a4-fd21-4c7c-9e4d-a1d77e06ba30",
+                "resourcePath": "objects\\Electronic_Dell_Monitor02_Obj\\Electronic_Dell_Monitor02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "384d6d62-a195-4ee9-bfbd-b2950f8d33f1",
+            "Value": {
+                "id": "61bd2321-eacb-4e1b-b702-1aadba52b42c",
+                "resourcePath": "objects\\Electronic_Samsung_Monitor05_Obj\\Electronic_Samsung_Monitor05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3852ff71-cb44-4972-bdd7-38366db86624",
+            "Value": {
+                "id": "a22e5d60-2c15-4305-97a7-b2f5fdae4838",
+                "resourcePath": "views\\3852ff71-cb44-4972-bdd7-38366db86624.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a643d9a-e2d9-4988-a570-fbaae7ef3374",
+            "Value": {
+                "id": "22bb56b7-aa70-492f-9223-85a6976dd4b3",
+                "resourcePath": "views\\3a643d9a-e2d9-4988-a570-fbaae7ef3374.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3caba925-5a54-4dbb-9e8c-7cbede07bc87",
+            "Value": {
+                "id": "9b9d0dcc-ca91-4455-8ea3-fdec760bfac1",
+                "resourcePath": "objects\\ObjSamsungMonitor5\\ObjSamsungMonitor5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3caecd66-ccf7-49c5-838e-e4d7b4a48c13",
+            "Value": {
+                "id": "0f99a6c0-3a84-4106-9596-d757aac02e25",
+                "resourcePath": "objects\\Electronic_Razor_Laptop05_Obj\\Electronic_Razor_Laptop05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d10396f-89de-46ba-bf46-50d03df2d31d",
+            "Value": {
+                "id": "a26091df-7f3c-4157-baae-825843d37436",
+                "resourcePath": "sprites\\Electronic_Dell_Monitor_04\\Electronic_Dell_Monitor_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e125e1b-8559-442a-a64d-9050ccd89dea",
+            "Value": {
+                "id": "ab742413-f6a8-47f7-b564-57e2fb61f697",
+                "resourcePath": "objects\\ObjSamsungMonitor2\\ObjSamsungMonitor2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f6c88af-ceda-4e10-89b8-5608cf710a16",
+            "Value": {
+                "id": "14122599-0e3a-4a09-9209-6d266e07412d",
+                "resourcePath": "sprites\\IMG\\IMG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "40bd55c8-3c1f-4d85-b3db-9afb06909796",
+            "Value": {
+                "id": "d115733b-7da8-44c0-9215-478476139432",
+                "resourcePath": "sprites\\sprStart\\sprStart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "411b38b3-a12a-4589-80a4-3ed45428cc7d",
+            "Value": {
+                "id": "ae56e66e-cd0f-49e9-b0e8-3fb86bc4394a",
+                "resourcePath": "objects\\chain_A_02\\chain_A_02.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "411d2045-013d-43fc-90e9-7117155950f7",
+            "Value": {
+                "id": "a8978bb3-bb53-4ee6-a50f-7aff0d6d09f1",
+                "resourcePath": "views\\411d2045-013d-43fc-90e9-7117155950f7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41b4998c-b51d-4af7-bf88-43a3b19c2fa8",
+            "Value": {
+                "id": "965f3404-674d-4057-905a-afb7fd4fa543",
+                "resourcePath": "objects\\Electronic_Dell_Laptop02_Obj\\Electronic_Dell_Laptop02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "41c98a48-cb7b-4624-a37c-66553492a00b",
+            "Value": {
+                "id": "d2e323e4-5d77-49ab-9fb9-630ed6358cc4",
+                "resourcePath": "sprites\\SprBlack\\SprBlack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41c9b588-3441-4e62-9abf-ccb0e5f109f2",
+            "Value": {
+                "id": "a479513d-7a07-4973-83e7-87e62a902935",
+                "resourcePath": "objects\\ObjDell\\ObjDell.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "425d898c-92c1-4f08-8d87-045e1b4fd913",
+            "Value": {
+                "id": "2dad545a-d9c6-4b04-8453-a99ae8480691",
+                "resourcePath": "objects\\ObjLaptop\\ObjLaptop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "43829fcd-e3d7-45ac-9ac7-673a71f73e5e",
+            "Value": {
+                "id": "751f293a-c838-4b64-a748-c7ba04fe906f",
+                "resourcePath": "sprites\\Electronic_Samsung_Monitor_02\\Electronic_Samsung_Monitor_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4538b887-6a15-4db3-ab69-012b674d280e",
+            "Value": {
+                "id": "3069cb54-493f-40e7-8caf-a720f58b6300",
+                "resourcePath": "objects\\Electronic_Samsung_Monitor01_Obj\\Electronic_Samsung_Monitor01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "461365bf-b12e-441d-95af-b0340bd7cfcb",
+            "Value": {
+                "id": "b6371948-c53b-4736-8b3c-35309deccf0b",
+                "resourcePath": "sprites\\Electronic_Lenovo_Monitor_02\\Electronic_Lenovo_Monitor_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49137ca6-bf28-420a-a055-9d7dee581842",
+            "Value": {
+                "id": "165a33e8-700e-4e75-b664-45a26cceab6a",
+                "resourcePath": "objects\\ObjLenovoMonitor1\\ObjLenovoMonitor1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4a2676b8-08eb-422e-8b1e-065b6b58ac66",
+            "Value": {
+                "id": "4b58fb08-9809-47e6-9396-795e10375e7e",
+                "resourcePath": "views\\4a2676b8-08eb-422e-8b1e-065b6b58ac66.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a2e5774-3916-4e91-9e99-31a91939c3e8",
+            "Value": {
+                "id": "50053e82-e9d5-49c5-b8ba-f79da345714b",
+                "resourcePath": "sprites\\SprLenovo\\SprLenovo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a5b47aa-f985-44d7-8afd-646484828471",
+            "Value": {
+                "id": "62e417f6-45e4-4bc9-82ca-6603fc993fbd",
+                "resourcePath": "sprites\\Electronic_Razor_Laptop_04\\Electronic_Razor_Laptop_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b23dc8d-2102-4c8f-bd5b-8316d129ce03",
+            "Value": {
+                "id": "c7bdca3f-f315-4884-957d-c6f045990450",
+                "resourcePath": "sprites\\Cursor\\Cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4bc11afa-760e-454b-b12e-a90ca356758a",
+            "Value": {
+                "id": "d09bc30c-9961-461d-996d-f4b9ef642cd2",
+                "resourcePath": "views\\4bc11afa-760e-454b-b12e-a90ca356758a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4dd31d39-3e4d-45ea-b3cf-665a537bdde5",
+            "Value": {
+                "id": "51439c58-b985-4c90-a0e8-2c5503031694",
+                "resourcePath": "objects\\ObjSamsungMonitor1\\ObjSamsungMonitor1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "513bf673-5559-49c1-a19d-4f1f94d6dd6a",
+            "Value": {
+                "id": "aed0876b-ed46-4f26-9f09-a5db7a4e950e",
+                "resourcePath": "sprites\\MAIL\\MAIL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "517da742-1d00-4bf2-9099-f95447bb0d4c",
+            "Value": {
+                "id": "88a89616-5764-40f4-ba21-ab7cc3491322",
+                "resourcePath": "objects\\ObjMacbook\\ObjMacbook.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5207d2d4-ca19-47b7-af06-340c57e6bb13",
+            "Value": {
+                "id": "11c4afbc-9ff1-4846-b21e-257411e2bead",
+                "resourcePath": "views\\5207d2d4-ca19-47b7-af06-340c57e6bb13.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "522482cf-8122-475d-a495-de5507fca9c9",
+            "Value": {
+                "id": "023a1f00-2dab-476f-966a-18ca2b7d21b5",
+                "resourcePath": "sprites\\Electronic_Lenovo_Monitor_03\\Electronic_Lenovo_Monitor_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "527ec493-44a0-49f9-83be-6423cc305cb4",
+            "Value": {
+                "id": "4d4e3b6e-edf2-4ad0-8cd4-8b179bc62a79",
+                "resourcePath": "sprites\\Electronic_Apple_Laptop_04\\Electronic_Apple_Laptop_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52baf925-cb89-4a9e-9cb4-8d5b36123379",
+            "Value": {
+                "id": "52cfe88d-56d3-47bb-b46d-5fdcecbd402e",
+                "resourcePath": "sprites\\SprMoniter\\SprMoniter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "541c49df-59d6-4c60-900b-3099b3bf0189",
+            "Value": {
+                "id": "019123d6-2ee1-4540-8e85-8dc0fdb50cad",
+                "resourcePath": "sprites\\Electronic_Alienware_Laptop_03\\Electronic_Alienware_Laptop_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "55d439ea-db8b-47ae-9bac-db6d89b5208f",
+            "Value": {
+                "id": "928c832f-5543-417a-a29b-f044e04fa05d",
+                "resourcePath": "sprites\\sprHitbox\\sprHitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5602f61c-fb79-4e68-8559-2e5cf78a1245",
+            "Value": {
+                "id": "ab29667e-1aec-4333-9258-a6135652d359",
+                "resourcePath": "objects\\ObjRazor\\ObjRazor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "562902a1-7df4-4e85-a1c0-b1051ee0b122",
+            "Value": {
+                "id": "e7dc2914-611b-43bd-9467-b5341472a6d6",
+                "resourcePath": "objects\\TestingAppleMonitorObj3\\TestingAppleMonitorObj3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "56911954-b844-4cbf-8658-33dde67b4a6c",
+            "Value": {
+                "id": "30b23f0b-b4ae-435a-97f9-b6846f85774d",
+                "resourcePath": "objects\\Electronic_Apple_Laptop_04_Obj1\\Electronic_Apple_Laptop_04_Obj1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5724f136-1eac-4168-bf56-2c3242d999d8",
+            "Value": {
+                "id": "29b0e5bd-427a-429b-8dc0-f5fa93eb6ca7",
+                "resourcePath": "views\\5724f136-1eac-4168-bf56-2c3242d999d8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5784b5fd-4557-4383-976d-1448bf15535e",
+            "Value": {
+                "id": "4ba06b6a-5099-4e02-bf69-181110f4e7a8",
+                "resourcePath": "views\\5784b5fd-4557-4383-976d-1448bf15535e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58355d77-d1ba-48f1-84ec-2cd677d6aab5",
+            "Value": {
+                "id": "0fb845ff-92bc-4ddc-885e-8147319f6ba0",
+                "resourcePath": "sprites\\Electronic_Ailenware_Monitor_02\\Electronic_Ailenware_Monitor_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "58b61d55-4fd2-4c4d-8c6b-83946600ad53",
+            "Value": {
+                "id": "17604505-ef44-4603-a294-a351dc38188f",
+                "resourcePath": "views\\58b61d55-4fd2-4c4d-8c6b-83946600ad53.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58e9df71-7146-482f-ae19-82b356fc8d95",
+            "Value": {
+                "id": "6cd1c8a3-4765-4673-b020-956ba0f258e8",
+                "resourcePath": "sprites\\Attack\\Attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "598e8bbb-2599-409f-8105-5495e8a67688",
+            "Value": {
+                "id": "3501c3ab-0949-40d0-ba97-80581ac9e312",
+                "resourcePath": "sprites\\Electronic_Apple_Laptop_03\\Electronic_Apple_Laptop_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5b20cbf1-1f83-4b6a-99d6-1bcbe326e72f",
+            "Value": {
+                "id": "42434f17-59c6-4bd1-92cc-71c1cd1dfb0e",
+                "resourcePath": "objects\\B_not\\B_not.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c0de9f3-8c2e-4648-a524-67fd47a59794",
+            "Value": {
+                "id": "408c5a0a-78cb-4da6-ba23-79c962b46522",
+                "resourcePath": "objects\\Electronic_Dell_Laptop05_Obj\\Electronic_Dell_Laptop05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5fa45695-4c6d-492f-9707-6574723599b3",
+            "Value": {
+                "id": "8a102c3c-d8db-451b-9f97-49cc1b1a86d3",
+                "resourcePath": "sprites\\DUI\\DUI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "602125cd-e439-4bb7-847d-6afaaa53d3cf",
+            "Value": {
+                "id": "7dd6364d-9864-4757-b615-b3926d104dc4",
+                "resourcePath": "views\\602125cd-e439-4bb7-847d-6afaaa53d3cf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "60c7b039-f53a-4bdf-a73d-a7999107d3c4",
+            "Value": {
+                "id": "6a4a6e66-dd9e-4c69-a89a-a4e9ac5dec44",
+                "resourcePath": "objects\\ObjUI\\ObjUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "60f760c0-32d5-46d9-b342-1285999fc7aa",
+            "Value": {
+                "id": "f3168912-4cb8-4a7e-ae18-52a5705df2c6",
+                "resourcePath": "objects\\Electronic_Dell_Monitor04_Obj\\Electronic_Dell_Monitor04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "61446079-ede3-4592-bf9e-890d24732a61",
+            "Value": {
+                "id": "cac73e34-6d7c-48e1-9e7f-0ef148ba0031",
+                "resourcePath": "views\\61446079-ede3-4592-bf9e-890d24732a61.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6165c3d6-41ab-4c4b-b257-3ef8ff9b75f9",
+            "Value": {
+                "id": "91f044f6-354c-4513-9c32-81ecb13e7794",
+                "resourcePath": "views\\6165c3d6-41ab-4c4b-b257-3ef8ff9b75f9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62c400da-b871-4e04-a06f-a9b2e35950aa",
+            "Value": {
+                "id": "ca5b9ddb-bc1e-4bed-8070-2e4f8bee2974",
+                "resourcePath": "objects\\ObjAppleLaptop5\\ObjAppleLaptop5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6338b75a-e4b3-4fac-8502-0bdb7f465a25",
+            "Value": {
+                "id": "5cc3d54b-c46c-4e2e-9e47-b00a5b18db41",
+                "resourcePath": "objects\\Electronic_Dell_Monitor05_Obj\\Electronic_Dell_Monitor05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6368611f-026b-4928-b1e6-02eff5bf0dca",
+            "Value": {
+                "id": "892ab53b-5e77-4ade-844b-bb4ae414ce5e",
+                "resourcePath": "views\\6368611f-026b-4928-b1e6-02eff5bf0dca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63f7fb31-c047-4c58-bebb-e8bea95d518e",
+            "Value": {
+                "id": "57ad3846-ac4c-4530-969a-4daa3bcaed76",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6500f3cc-c6c0-42dc-b32c-abf6c0db0c74",
+            "Value": {
+                "id": "432d0eb6-f25d-4c27-bfc8-4f9248f8be2e",
+                "resourcePath": "sprites\\SprRazor\\SprRazor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "650f6341-b464-4b67-996b-e86dad08ba01",
+            "Value": {
+                "id": "7d5da68e-569e-49ca-8b65-415c60bdc0d9",
+                "resourcePath": "sprites\\Electronic_Alienware_Laptop_01\\Electronic_Alienware_Laptop_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6569bc12-a118-48b4-96a8-87614d3db649",
+            "Value": {
+                "id": "284b58f6-e7ac-4c23-a631-aa61af8b265c",
+                "resourcePath": "views\\6569bc12-a118-48b4-96a8-87614d3db649.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6572cfdd-3431-41cf-bd52-0488a24df8cf",
+            "Value": {
+                "id": "8658e036-5581-4ae6-b0f9-42e7898a5284",
+                "resourcePath": "objects\\Electronic_Alienware_Monitor05_Obj\\Electronic_Alienware_Monitor05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "65a74eef-022b-41db-a74f-afe62b3cee4c",
+            "Value": {
+                "id": "a64e43e3-01ad-4a68-8578-5776b6fc248e",
+                "resourcePath": "sprites\\SprLaptop\\SprLaptop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "662bc56e-3ce5-46d3-83ad-c8f9226c322f",
+            "Value": {
+                "id": "f9ba2348-ccba-4d0a-a6d8-793f0f7c3c28",
+                "resourcePath": "objects\\ObjAlienwareLaptop3\\ObjAlienwareLaptop3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "673abe54-096c-4949-ac1b-5e84e3f1ebae",
+            "Value": {
+                "id": "0b1ac3c0-9d43-414c-b337-a39b622733d3",
+                "resourcePath": "objects\\Electronic_Alienware_Laptop05_Obj\\Electronic_Alienware_Laptop05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6889650e-1aeb-4484-8dad-4d1a2d468983",
+            "Value": {
+                "id": "a0ee96aa-c52d-45fe-990a-7d1860ab1c01",
+                "resourcePath": "views\\6889650e-1aeb-4484-8dad-4d1a2d468983.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69c78016-ea3c-4715-86b7-5bd84b364205",
+            "Value": {
+                "id": "9a4b2647-2bdc-47d9-9b0a-356697959f7d",
+                "resourcePath": "sprites\\Computer_Apple_Monitor_03\\Computer_Apple_Monitor_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69d5fcb6-b0c1-4781-b3e5-c2b22ba972c0",
+            "Value": {
+                "id": "b3086143-1886-43f4-b3fd-15e051e264d1",
+                "resourcePath": "objects\\Electronic_Dell_Laptop01_Obj\\Electronic_Dell_Laptop01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6aded50d-c1df-45ad-baf1-b3b515386e12",
+            "Value": {
+                "id": "b8962556-5e85-44bc-adf8-57502ac2c61f",
+                "resourcePath": "objects\\Electronic_Alienware_Monitor03_Obj\\Electronic_Alienware_Monitor03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f89fb05-a0b2-4840-ac8e-187a3f3f3871",
+            "Value": {
+                "id": "e2b1800c-2dc7-437d-bb43-920cfa5539ed",
+                "resourcePath": "objects\\TestingAppleMonitorObj2\\TestingAppleMonitorObj2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "70f99f76-4b2c-4c1c-bb19-ae33f4c735e5",
+            "Value": {
+                "id": "9e2bc8a5-6686-4ac0-928b-f243dc1b6fb1",
+                "resourcePath": "objects\\chain_B_01\\chain_B_01.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71358567-d828-4380-a20e-7a3ab528f17a",
+            "Value": {
+                "id": "e3c432ae-ea99-4683-9107-677a750bd773",
+                "resourcePath": "objects\\TestingAppleMonitorObj1\\TestingAppleMonitorObj1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71b8339d-1fa6-44ec-b7c8-1b3059647074",
+            "Value": {
+                "id": "2d5ebbad-c382-4eaf-a940-e64f0b8f7d1e",
+                "resourcePath": "objects\\ObjSamsung\\ObjSamsung.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71c41b01-45e3-4cc1-9e56-948cc9bfaba4",
+            "Value": {
+                "id": "44e57eb0-ffe0-4fea-87ee-56dbc3dd7b0e",
+                "resourcePath": "views\\71c41b01-45e3-4cc1-9e56-948cc9bfaba4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72c434f4-d4e9-4463-9254-c53583bbad84",
+            "Value": {
+                "id": "c69d692f-e036-4ac0-8710-dd7ee40f00ea",
+                "resourcePath": "sprites\\Electronic_Dell_Monitor_05\\Electronic_Dell_Monitor_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7399e12b-96e1-4565-8d36-70a7437ec3de",
+            "Value": {
+                "id": "db59b96c-1acb-4239-94ce-fb6baf88ad77",
+                "resourcePath": "objects\\ObjSamsungMonitor4\\ObjSamsungMonitor4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "74003f53-dc0a-48e9-bfe4-3f2226ff771b",
+            "Value": {
+                "id": "302a77c5-c269-4809-b5a1-af7717623c66",
+                "resourcePath": "sprites\\SprSumsung\\SprSumsung.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74466188-12af-47ee-bc28-5607b134ef7e",
+            "Value": {
+                "id": "c0cb5ea4-b3bd-4b6f-8148-30758fd77bd9",
+                "resourcePath": "views\\74466188-12af-47ee-bc28-5607b134ef7e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "77030de7-33af-4ac0-a074-c9ba1327907a",
+            "Value": {
+                "id": "db6c0697-5d1a-4539-a9f4-0d62979d52c1",
+                "resourcePath": "sprites\\PAPER\\PAPER.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b678403-7294-4397-b69d-9d70e07cbb74",
+            "Value": {
+                "id": "951e01d3-3c9d-4d0c-ae55-1d0a99003703",
+                "resourcePath": "sprites\\GIF\\GIF.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b6fbade-6dc1-417d-a778-491e51fd9932",
+            "Value": {
+                "id": "f0520d02-763c-4413-94fe-69765d30acb2",
+                "resourcePath": "objects\\ObjRazorLaptop2\\ObjRazorLaptop2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7bbd4e8f-aafd-4803-a3ec-4b1ab2bb5b0e",
+            "Value": {
+                "id": "d6205222-f24b-49b3-8502-891213404b3e",
+                "resourcePath": "sprites\\Electronic_Dell_Laptop_05\\Electronic_Dell_Laptop_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c03a02f-b072-4c66-9676-a0eec36f291f",
+            "Value": {
+                "id": "06aae0af-fb95-4a18-90dd-69ac371475c9",
+                "resourcePath": "objects\\btest\\btest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7e9ee0c4-7fa4-4837-b532-8a8f017e6466",
+            "Value": {
+                "id": "f556df04-da1b-4315-a26b-87484b34e553",
+                "resourcePath": "objects\\Electronic_Apple_Monitor_02_Obj\\Electronic_Apple_Monitor_02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7edf4538-8337-47cf-8d7a-a809c4c9b681",
+            "Value": {
+                "id": "3c4b7ed9-6a3c-4264-8fcb-2839b19edc3a",
+                "resourcePath": "views\\7edf4538-8337-47cf-8d7a-a809c4c9b681.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f30fca9-ece5-43e0-ade0-91148ed5a4c1",
+            "Value": {
+                "id": "73057694-9c08-4277-a17d-cb4b4e2b2ad5",
+                "resourcePath": "views\\7f30fca9-ece5-43e0-ade0-91148ed5a4c1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "80a5666d-c0d9-49d0-9097-4f6d872de38a",
+            "Value": {
+                "id": "222b93f6-e3ba-400b-a8be-5c12fd2055d6",
+                "resourcePath": "objects\\ObjDellLaptop2\\ObjDellLaptop2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "819c906b-9eac-4ec9-a209-5766b2c2598a",
+            "Value": {
+                "id": "44d4ad4f-9527-40df-bdce-703758cc71fa",
+                "resourcePath": "objects\\ObjAppleMonitor5\\ObjAppleMonitor5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81e30e6f-5b38-4947-ae00-d16ffd9d9202",
+            "Value": {
+                "id": "843e99f3-c05c-4f57-9362-4c2f80b0683d",
+                "resourcePath": "views\\81e30e6f-5b38-4947-ae00-d16ffd9d9202.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82dcd87c-f140-4c89-8411-1b2eaaee1154",
+            "Value": {
+                "id": "c16034d8-e84b-45bc-acc4-07d382ce75c3",
+                "resourcePath": "objects\\b\\b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "82e5ed62-e646-4016-bd2b-e8e00db963a8",
+            "Value": {
+                "id": "5d096777-261a-4464-99fb-51b7f14a1c18",
+                "resourcePath": "objects\\ObjAlienwareLaptop2\\ObjAlienwareLaptop2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "851b11b8-a7ba-4efd-a74b-61e3c2888235",
+            "Value": {
+                "id": "0efc820b-50fc-49c8-8319-776f98969e64",
+                "resourcePath": "sprites\\chain_B\\chain_B.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "86a1477a-87fd-43af-9537-2ec3a1089cd9",
+            "Value": {
+                "id": "ade1cd33-a953-4a75-b51b-936a9656fdb1",
+                "resourcePath": "objects\\not_related_hitbox\\not_related_hitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "86b937fa-aa4a-4b12-9072-50bca18f5bd2",
+            "Value": {
+                "id": "369a6546-3e91-4506-8c9c-13d0c70eb8ca",
+                "resourcePath": "objects\\ObjDellMonitor1\\ObjDellMonitor1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8788c443-e58d-41a4-a7b3-2c951f8fa0fa",
+            "Value": {
+                "id": "a8709364-a351-4560-8c1d-31e7cefad831",
+                "resourcePath": "objects\\object36\\object36.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "886a7630-f574-4a74-b3a0-da7fcb6064e5",
+            "Value": {
+                "id": "d22c3b80-665b-4e53-bb81-fd065ac96a33",
+                "resourcePath": "objects\\ObjAppleLaptop3\\ObjAppleLaptop3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "889826d0-3769-4747-9441-83ed48d15886",
+            "Value": {
+                "id": "27b96b27-169b-4f34-bbdc-3bb4403f4fe3",
+                "resourcePath": "objects\\ObjDellLaptop4\\ObjDellLaptop4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "88e68f86-8b31-4c4a-9a2c-5ee69be7fc94",
+            "Value": {
+                "id": "8f0bbca1-1e45-4ec6-a5fa-ac39296fa847",
+                "resourcePath": "sprites\\IMG3\\IMG3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "88f3edcb-66ca-4f2a-a36c-4774aa677080",
+            "Value": {
+                "id": "7d2d35b4-7d34-4ea0-91ad-0170286274b6",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8ace2dfd-18ac-4c57-8e3a-bd0ce85782be",
+            "Value": {
+                "id": "92a9eefd-374c-4fdd-a87f-dbdbded6e07e",
+                "resourcePath": "objects\\ObjDellMonitor4\\ObjDellMonitor4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8bcdb531-e384-4088-a325-1e04e0a0ac4c",
+            "Value": {
+                "id": "2d2e3649-c927-45d9-aaf7-6fe68f479ae1",
+                "resourcePath": "sprites\\Electronic_Dell_Monitor_03\\Electronic_Dell_Monitor_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d45319b-6603-4fa1-a434-03b004b36bf1",
+            "Value": {
+                "id": "3a3529e2-eb66-48f4-824f-fdb3fc292abc",
+                "resourcePath": "views\\8d45319b-6603-4fa1-a434-03b004b36bf1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9089d5c0-444f-4df2-83a1-2ff6d675aec2",
+            "Value": {
+                "id": "3e0629b3-8607-40ec-999b-c94e7e72ce5c",
+                "resourcePath": "views\\9089d5c0-444f-4df2-83a1-2ff6d675aec2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92dacc1f-8ce9-4ad1-8f8c-36ae6ce3df64",
+            "Value": {
+                "id": "cef7c8b9-19eb-4dbb-a173-69fd13f05257",
+                "resourcePath": "sprites\\Electronic_Apple_Monitor_01\\Electronic_Apple_Monitor_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92e54c0c-4b7d-47af-9a09-bec3173900a1",
+            "Value": {
+                "id": "aaf1974b-0dbe-4f18-b2ee-952174263028",
+                "resourcePath": "sprites\\Electronic_Razor_Laptop_05\\Electronic_Razor_Laptop_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9323893a-1005-48b4-b82c-41679eb8348a",
+            "Value": {
+                "id": "5a777f2c-5ac9-4a39-ad97-28463c2e59d2",
+                "resourcePath": "sprites\\chain_A\\chain_A.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93980edf-dcc0-4f96-9d52-872a360cc16c",
+            "Value": {
+                "id": "a3c08ff0-ee8d-4ced-b416-218b1cef1f56",
+                "resourcePath": "sprites\\Computer_Apple_Monitor_04\\Computer_Apple_Monitor_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93ee3fa9-9731-453c-b32d-5c8af3fe3d87",
+            "Value": {
+                "id": "23688c1b-6db9-4282-a14c-124ddc8048b5",
+                "resourcePath": "views\\93ee3fa9-9731-453c-b32d-5c8af3fe3d87.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "95b9ac48-3265-476f-b9bd-6f27de96b3c3",
+            "Value": {
+                "id": "02744627-b62b-4005-93a4-ea5f7f06852b",
+                "resourcePath": "sprites\\Electronic_Apple_Monitor_05_\\Electronic_Apple_Monitor_05_.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "97e2c2b4-5d22-4bdf-a9ae-5ef8814742cd",
+            "Value": {
+                "id": "e352a134-d6a3-4a7e-9802-1cb3c7be42fa",
+                "resourcePath": "sprites\\Electronic_Ailenware_Monitor_04\\Electronic_Ailenware_Monitor_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99a27f47-6549-41b6-9bbf-d10697de31c6",
+            "Value": {
+                "id": "6e1700c8-ceda-407e-ad40-85b91fb267c6",
+                "resourcePath": "objects\\Electronic_Razor_Laptop02_Obj\\Electronic_Razor_Laptop02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "99eecd5b-b360-4fbd-894a-719e27571fc7",
+            "Value": {
+                "id": "cacb2ccb-13fb-473d-81d8-10603921bed7",
+                "resourcePath": "objects\\ObjBlack\\ObjBlack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9a54388c-bbfd-4376-a9cd-ce01849c88ae",
+            "Value": {
+                "id": "759cf689-943f-48cc-b406-4dd6e24afb9b",
+                "resourcePath": "objects\\chain_B_02\\chain_B_02.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9d8f78db-8b9f-4837-84d5-1856bf345b7b",
+            "Value": {
+                "id": "bdce2a70-f12c-4988-80e8-fcc667c580d8",
+                "resourcePath": "sprites\\Electronic_Ailenware_Monitor_05\\Electronic_Ailenware_Monitor_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e0b4641-90f6-4054-9e4a-97168b590d01",
+            "Value": {
+                "id": "232b2776-ea88-489c-ae13-602b7aae075c",
+                "resourcePath": "objects\\ObjLenovoMonitor4\\ObjLenovoMonitor4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9e542b24-1764-4d08-81b1-da8000b8bae1",
+            "Value": {
+                "id": "bd5d4568-2e80-49cf-af8e-76b7f04bbed7",
+                "resourcePath": "objects\\ObjWhite\\ObjWhite.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9e9063d4-636b-4e2a-a993-400e0c488174",
+            "Value": {
+                "id": "62d1ca36-cc53-4064-a3c8-d719f19c6152",
+                "resourcePath": "objects\\ObjLenovoMonitor5\\ObjLenovoMonitor5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9f65092a-9279-4a06-8b3b-2089b3c68616",
+            "Value": {
+                "id": "7e6fdf21-0fef-4186-b270-d843eb5403d3",
+                "resourcePath": "sprites\\SprBrown\\SprBrown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f704753-cb58-4dc3-b72c-9bc27f6f172f",
+            "Value": {
+                "id": "b03e4d54-9c65-4318-9905-92f71bd43d2d",
+                "resourcePath": "sprites\\Electronic_Lenovo_Monitor_04\\Electronic_Lenovo_Monitor_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a17d2eb3-0fca-4562-8888-f8f04af528f4",
+            "Value": {
+                "id": "72b2a5f2-96b2-4f92-8835-b05e9ecb5ab5",
+                "resourcePath": "sprites\\Electronic_Dell_Laptop_03\\Electronic_Dell_Laptop_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1e1a48f-cc63-4baa-b0f6-08ac8be7e7c7",
+            "Value": {
+                "id": "422b39ac-cc33-4be0-b4e4-9da0701e8be4",
+                "resourcePath": "objects\\ObjAlienware\\ObjAlienware.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2614884-2336-461b-af8b-74da88c26629",
+            "Value": {
+                "id": "96399d81-1949-444a-9bb8-48587eef912c",
+                "resourcePath": "sprites\\IMG2\\IMG2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a28eb159-e3d4-4696-8f8f-57c21a4feb3f",
+            "Value": {
+                "id": "018a26dc-6d9d-4e65-9300-101387a2bc6c",
+                "resourcePath": "views\\a28eb159-e3d4-4696-8f8f-57c21a4feb3f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a31102e9-4427-4a6a-a73f-e9cb3d73f84e",
+            "Value": {
+                "id": "05a22f92-6d02-46d7-ba84-d65627f0615c",
+                "resourcePath": "views\\a31102e9-4427-4a6a-a73f-e9cb3d73f84e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a340f56b-103d-4c6f-bd46-4dff24d42b66",
+            "Value": {
+                "id": "9ba2c947-49cb-443e-a556-1691ecf5588d",
+                "resourcePath": "objects\\ObjAppleMonitor2\\ObjAppleMonitor2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a55c07a2-6791-4793-8f77-227de9adf9b4",
+            "Value": {
+                "id": "054a19fa-619a-419f-9917-f5aa33aeaf49",
+                "resourcePath": "sprites\\Electronic_Razor_Laptop_03\\Electronic_Razor_Laptop_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a5d3993a-d71f-4aa2-8712-1f941e3a7e29",
+            "Value": {
+                "id": "f149f244-51fa-496f-b1d5-65dda318bf1d",
+                "resourcePath": "objects\\Electronic_Lenovo_Monitor01_Obj\\Electronic_Lenovo_Monitor01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6e87e8f-f697-4b74-aba9-397a4ac86a3b",
+            "Value": {
+                "id": "91395237-3cb7-4a03-80d1-bb6d2be26cbf",
+                "resourcePath": "sprites\\C_glow\\C_glow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a70c184a-d641-4afd-a117-aabbac697c60",
+            "Value": {
+                "id": "1bae668e-9e23-4323-8270-ab61366e7974",
+                "resourcePath": "views\\a70c184a-d641-4afd-a117-aabbac697c60.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a8f2d5fe-493b-4bf4-8618-4394585f6767",
+            "Value": {
+                "id": "c3b2d1a8-56fc-4679-85bf-4e555e998e9e",
+                "resourcePath": "objects\\ObjApple\\ObjApple.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a915575a-53ea-4d7e-969b-0ebfd435e80d",
+            "Value": {
+                "id": "285eb638-7d8b-4f9b-89cc-47fd142b71f0",
+                "resourcePath": "objects\\Electronic_Alienware_Laptop01_Obj\\Electronic_Alienware_Laptop01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "3a5287c1-35b6-4611-86c4-4f075cf13a60",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a91f6f23-3e65-4a4c-a3ee-3c9a7323cce5",
+            "Value": {
+                "id": "b120fe8a-8daa-4ebc-aa46-3f1e72dba81b",
+                "resourcePath": "sprites\\SprChoosingLabel\\SprChoosingLabel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9cff9f4-bbb2-45d0-a60f-f26bf628a465",
+            "Value": {
+                "id": "16bd8218-3a0c-45e9-a204-a5b4f6270db9",
+                "resourcePath": "views\\a9cff9f4-bbb2-45d0-a60f-f26bf628a465.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab364dac-c7ca-4cc7-be30-0eaf571edb23",
+            "Value": {
+                "id": "a7ccf0aa-edac-4721-9ac2-bb83d5e85d22",
+                "resourcePath": "sprites\\SprDell\\SprDell.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ab881ef1-3586-43f1-bc8a-82f576e99894",
+            "Value": {
+                "id": "d87cd8cb-6e3e-4da4-9544-ad61917f0d3d",
+                "resourcePath": "scripts\\PlayerMovement\\PlayerMovement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "abc972ff-6e3b-4b6b-b894-fed073c84818",
+            "Value": {
+                "id": "6c5421da-7dbf-4172-8170-167ae3d72a32",
+                "resourcePath": "objects\\ObjDellMonitor2\\ObjDellMonitor2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac48e347-6ee1-4324-ab0c-ad39d06abde7",
+            "Value": {
+                "id": "e2756c7f-1651-495c-81f9-dfbb2a896747",
+                "resourcePath": "objects\\ObjSamsungMonitor3\\ObjSamsungMonitor3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac558206-7f4b-4141-86bb-e5c27e336fc0",
+            "Value": {
+                "id": "61fc7230-5c58-442c-8eaa-c5f0f5a39eab",
+                "resourcePath": "objects\\ObjAlienwareLaptop5\\ObjAlienwareLaptop5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad40ae59-e090-4609-a5c8-210cda135732",
+            "Value": {
+                "id": "471b474d-a6d2-4105-a01e-8a227e14e7aa",
+                "resourcePath": "sprites\\PENCIL\\PENCIL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "adc860a8-af8f-4d69-9d4f-448c05ac38cf",
+            "Value": {
+                "id": "90867006-4783-4825-ad5e-74b88cabba90",
+                "resourcePath": "objects\\ObjAlienwareMonitor\\ObjAlienwareMonitor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af099199-8888-4336-94e9-7c8106d87176",
+            "Value": {
+                "id": "85125be5-afa8-4606-b3f9-a8be655b4e9a",
+                "resourcePath": "objects\\A_not\\A_not.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "afdd7ee0-a7fd-454b-ab3d-92da6159808c",
+            "Value": {
+                "id": "ef359b0f-d272-4c3d-92c5-ac37acc49b06",
+                "resourcePath": "objects\\C_not\\C_not.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b132747d-03fc-4cda-a471-8bb74ebcf22b",
+            "Value": {
+                "id": "b2baac6b-a652-430c-9017-38739a882c22",
+                "resourcePath": "objects\\ObjAlienwareMonitor2\\ObjAlienwareMonitor2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b4461265-dc2f-429d-b591-3ac45e38dfff",
+            "Value": {
+                "id": "cf3be4c6-1be7-4620-8c7a-c50c5041866e",
+                "resourcePath": "views\\b4461265-dc2f-429d-b591-3ac45e38dfff.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b45825ce-295f-467f-8b3a-6ca587ca9d0a",
+            "Value": {
+                "id": "7b90a215-54e5-497d-a219-7134cdb1e889",
+                "resourcePath": "objects\\ObjAppleMonitor4\\ObjAppleMonitor4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b4b703de-ee0d-4b8a-afb4-4de2f9492ca3",
+            "Value": {
+                "id": "9ee592ae-5c61-4dd3-b07a-6822ec4c605e",
+                "resourcePath": "views\\b4b703de-ee0d-4b8a-afb4-4de2f9492ca3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b585e712-8b6f-43eb-b887-7d3e0c6b7190",
+            "Value": {
+                "id": "35033b77-7298-4767-ba99-2ba276c2ad99",
+                "resourcePath": "objects\\objRoomSwitch\\objRoomSwitch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b62a6626-2299-4c7a-a45c-02c38fd4c8f9",
+            "Value": {
+                "id": "067f570a-9d08-44e4-b2fa-d0461fd0bbd4",
+                "resourcePath": "sprites\\SprElectornic\\SprElectornic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6aa11cf-433a-4027-a088-c11015ea6b13",
+            "Value": {
+                "id": "ce49afa0-9f13-4a73-ae24-33c9acd8560e",
+                "resourcePath": "objects\\ObjAlienwareMonitor4\\ObjAlienwareMonitor4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b93c88ad-4bdf-48bd-a6f1-1f16cf0da216",
+            "Value": {
+                "id": "9da59afa-2d66-49b7-a724-0359ed00e3f7",
+                "resourcePath": "sprites\\Electronic_Dell_Laptop_04\\Electronic_Dell_Laptop_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b9f448b7-0c6b-44a9-b574-645c3216952c",
+            "Value": {
+                "id": "7a601398-b4b1-4098-96bc-4c5dbb53d3e2",
+                "resourcePath": "sprites\\Electronic_Razor_Laptop_01\\Electronic_Razor_Laptop_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bbc41abf-d570-40a2-a89e-b45a4b3ab016",
+            "Value": {
+                "id": "5ec7959b-c7f1-468c-9443-2f62faa06717",
+                "resourcePath": "objects\\garbage\\garbage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbf00154-ce04-4bd3-a6f8-9b543f08f778",
+            "Value": {
+                "id": "a1a97b9a-6eef-4bd3-a78d-3b2a45c27b38",
+                "resourcePath": "sprites\\Electronic_Alienware_Laptop_04\\Electronic_Alienware_Laptop_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf3ceac2-ae21-4443-b330-0b7a9125fc7c",
+            "Value": {
+                "id": "0aad2d24-b09e-4234-8c2b-d8ab1588e53b",
+                "resourcePath": "objects\\Electronic_Lenovo_Monitor05_Obj\\Electronic_Lenovo_Monitor05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf3edb6b-5692-4c32-bae5-30a4fcf62ffb",
+            "Value": {
+                "id": "eac2390c-4b82-4b25-94f0-6dd0d423b5e2",
+                "resourcePath": "objects\\ObjAppleLaptop4\\ObjAppleLaptop4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf435ce5-95c3-44a6-96fc-14fc1a17c4d5",
+            "Value": {
+                "id": "fbfa8e13-b18a-4ba2-95be-bfe8e03a80a6",
+                "resourcePath": "sprites\\whtie\\whtie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c238238e-bf56-4cec-b25a-b136b335f6f5",
+            "Value": {
+                "id": "6a75603a-e0fd-4404-aa51-b5a7e675daaf",
+                "resourcePath": "objects\\ObjAlienwareMonitor3\\ObjAlienwareMonitor3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c2b7863e-af09-4a90-97a6-556cb3c5a716",
+            "Value": {
+                "id": "03460d87-4099-4580-a4d0-3b4a20641def",
+                "resourcePath": "views\\c2b7863e-af09-4a90-97a6-556cb3c5a716.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5a95b95-c058-4cce-af6f-bb642eebb921",
+            "Value": {
+                "id": "d9324ba7-41c1-444f-b345-326ac6580afa",
+                "resourcePath": "views\\c5a95b95-c058-4cce-af6f-bb642eebb921.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5c44144-fb6c-4860-892b-607cf1a281af",
+            "Value": {
+                "id": "02a0603b-a260-433c-9ff1-f14e839959a7",
+                "resourcePath": "sprites\\uiframe\\uiframe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c63a90b1-321e-4f6c-b77b-6f3f3577b40d",
+            "Value": {
+                "id": "e60b3eff-8fce-4aa7-9828-68f5c571cfaf",
+                "resourcePath": "views\\c63a90b1-321e-4f6c-b77b-6f3f3577b40d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7a7bec7-61e6-45aa-99dd-fac2f31bf8e1",
+            "Value": {
+                "id": "9e5e52a8-da51-4b41-b17d-e5ff583c0c5d",
+                "resourcePath": "objects\\cursor_obj\\cursor_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c82d8574-18b8-43aa-a366-91e1dada2f74",
+            "Value": {
+                "id": "12b07556-98b6-4512-a7de-900dc82733fe",
+                "resourcePath": "sprites\\PNG\\PNG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c953272c-be84-436e-af2a-bf25430dbc09",
+            "Value": {
+                "id": "e5b40ac5-e9fa-4ea1-aaea-c94796f1fe30",
+                "resourcePath": "sprites\\Electronic_Apple_Monitor_02\\Electronic_Apple_Monitor_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c9a827b8-2e9e-4f6c-b91c-ab4198f32c4a",
+            "Value": {
+                "id": "548868bf-2e93-4f1d-80d6-3f6204b41f5d",
+                "resourcePath": "sprites\\A_glow\\A_glow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ca1c1d15-4283-44bc-af47-6d170aa8bb2b",
+            "Value": {
+                "id": "e46c9ae2-8ab0-4c4d-896c-d6f03c0ab2e7",
+                "resourcePath": "objects\\ObjRazorLaptop3\\ObjRazorLaptop3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca5bd7f6-1ff0-43b1-ac9a-73f4054c5841",
+            "Value": {
+                "id": "8b59a8b8-32be-4321-8216-95a05292e76f",
+                "resourcePath": "scripts\\PlayerKeyboardInput\\PlayerKeyboardInput.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ca7f3ad8-b463-4a1b-af18-0f06d9f38c47",
+            "Value": {
+                "id": "3e1f8609-367e-4753-bf9c-d6cebd232d40",
+                "resourcePath": "objects\\TestingAppleMonitorObj\\TestingAppleMonitorObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb9ec07f-ab7f-46fb-9b0d-0a8367838ef0",
+            "Value": {
+                "id": "f0b1c033-14ce-4610-9428-a50b23c1d2e6",
+                "resourcePath": "objects\\Electronic_Samsung_Monitor04_Obj\\Electronic_Samsung_Monitor04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "62eebc39-6f26-4393-9698-47b4056b3d7e",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce0aece8-3798-408c-8af9-b7a610312e70",
+            "Value": {
+                "id": "f3e314fb-65c3-4ca5-9e25-cb926392eca5",
+                "resourcePath": "objects\\ObjDellMonitor3\\ObjDellMonitor3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce62ed73-4e60-4945-9fa1-d9601c1e62c7",
+            "Value": {
+                "id": "99821113-f2b1-47c8-9ae5-7485363acccb",
+                "resourcePath": "objects\\AlienwareMonitor\\AlienwareMonitor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cec3d0fd-b665-4871-9f21-dc24165e624f",
+            "Value": {
+                "id": "4e85fdf3-7efa-4b45-a882-c0d6f36b9231",
+                "resourcePath": "objects\\Electronic_Lenovo_Monitor03_Obj\\Electronic_Lenovo_Monitor03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0443a0b-076b-4db9-8c08-91edc6e99e9e",
+            "Value": {
+                "id": "251cf84c-01a8-46da-8447-864878201419",
+                "resourcePath": "sprites\\MP3\\MP3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d08847d8-bfba-4502-adae-77c356c02dd4",
+            "Value": {
+                "id": "84b84bc6-3b1d-43d6-bd97-1b00e0a8d7ce",
+                "resourcePath": "sprites\\Electronic_Samsung_Monitor_04\\Electronic_Samsung_Monitor_04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0b25a99-877a-4ccc-a3db-bd66b3b9e6ff",
+            "Value": {
+                "id": "7ef352a2-68c7-4231-87fe-e371c79e51f2",
+                "resourcePath": "sprites\\TXT\\TXT.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2b01197-09e5-4af8-9e4e-7d2c7db1829a",
+            "Value": {
+                "id": "b26454b3-f19f-4626-8312-3e3bd9bd0433",
+                "resourcePath": "sprites\\Electronic_Lenovo_Monitor_01\\Electronic_Lenovo_Monitor_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d3b8f1ea-4281-4b8d-b873-d4e385cf1cff",
+            "Value": {
+                "id": "04cba930-af29-4f63-8477-7d0302ec6d34",
+                "resourcePath": "views\\d3b8f1ea-4281-4b8d-b873-d4e385cf1cff.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d491e719-bcb1-419e-bd93-c9b7f24aaaff",
+            "Value": {
+                "id": "7c7263c7-f487-40ff-a370-3b1b19cd9f95",
+                "resourcePath": "objects\\ObjRazorLaptop5\\ObjRazorLaptop5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d78e0533-ed2a-46c5-93e6-f800842366be",
+            "Value": {
+                "id": "000c46e0-c785-48b5-9933-30cbde3cc662",
+                "resourcePath": "objects\\info_block\\info_block.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d80764d4-8ace-4e02-abc9-69d216327f06",
+            "Value": {
+                "id": "c327b470-8abb-4992-93ad-61720509c679",
+                "resourcePath": "objects\\Start\\Start.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d8e2bc4d-0f80-456d-b4cf-f755f5db9009",
+            "Value": {
+                "id": "4fbc4cbb-a3f7-41d1-a0d4-c05530c98396",
+                "resourcePath": "objects\\Electronic_Alienware_Monitor04_Obj\\Electronic_Alienware_Monitor04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d918bf80-3b0a-41f1-922a-54ad21b0c1e7",
+            "Value": {
+                "id": "d2e50845-4473-4331-9dc8-a4528e8be956",
+                "resourcePath": "objects\\ObjLenovoMonitor3\\ObjLenovoMonitor3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d92bfef3-6486-4c1c-9fe9-5af363d9dce6",
+            "Value": {
+                "id": "cf85915f-e0b3-4416-9a5c-c2c566ac6450",
+                "resourcePath": "sprites\\B_glow\\B_glow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d95149d9-3671-4a36-8965-a2a3bd88ffe3",
+            "Value": {
+                "id": "507ea6bd-f697-4ff7-83c9-d8876077a750",
+                "resourcePath": "objects\\Electronic_Apple_Laptop_04_Obj\\Electronic_Apple_Laptop_04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "daaa3f9a-2643-4b68-9d5f-2e3534816931",
+            "Value": {
+                "id": "9eabd83b-770d-4e31-8d5d-30578e0aaf13",
+                "resourcePath": "objects\\ObjPink\\ObjPink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dbf3d3b4-0fbb-4e7b-b1fc-0d04667545d5",
+            "Value": {
+                "id": "5e3e220c-d2a1-45d0-a642-ef8832b5e78c",
+                "resourcePath": "objects\\Electronic_Apple_Laptop_03_Obj\\Electronic_Apple_Laptop_03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dc368e2b-3922-4dd7-90f2-5c3259315abf",
+            "Value": {
+                "id": "a2a3d7b2-2d5d-43fc-a188-184a59ccbb32",
+                "resourcePath": "objects\\ObjDellLaptop1\\ObjDellLaptop1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dce47ae5-e077-4a43-a9b5-dce56eb1f184",
+            "Value": {
+                "id": "fe284d49-d484-4a2d-84a6-249f08f7ea83",
+                "resourcePath": "scripts\\script_cursor\\script_cursor.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dce4debd-0aeb-40e1-a8fb-ed4031830940",
+            "Value": {
+                "id": "632aca6c-9a6f-43c7-91bd-c576219d6720",
+                "resourcePath": "objects\\ObjLenovoMonitor2\\ObjLenovoMonitor2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dd92e369-d722-4dec-b148-a43c56c499c9",
+            "Value": {
+                "id": "0bcc06c2-f8d5-42e9-ba8f-2dd103b5332c",
+                "resourcePath": "sprites\\SprPink\\SprPink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de80e145-06dc-4ba5-93df-4eedd2138b2d",
+            "Value": {
+                "id": "93ca9f75-f04d-45bb-b484-7798a3aff607",
+                "resourcePath": "sprites\\chain_C\\chain_C.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dec9759d-81fd-479c-985f-ad7a9a12642a",
+            "Value": {
+                "id": "b5f32d85-0dcb-44e4-bcc0-2de42df38b1f",
+                "resourcePath": "shaders\\shader0\\shader0.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "e12e0fd7-0c11-4c48-9d8e-66df74f95c50",
+            "Value": {
+                "id": "a94aac84-8f6b-423d-b215-0551c0d29da1",
+                "resourcePath": "datafiles_yy\\demo.yyp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e14e2cb0-dad6-4147-8139-3eba2dcb94fe",
+            "Value": {
+                "id": "f0e38c55-299a-4a37-8fc8-eb869fe95642",
+                "resourcePath": "objects\\Electronic_Dell_Laptop04_Obj\\Electronic_Dell_Laptop04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e1744932-01dc-43d0-9b81-979435403045",
+            "Value": {
+                "id": "e4a9bde3-3273-4683-b5b9-1f69ffb81174",
+                "resourcePath": "sprites\\Electronic_Apple_Laptop_05\\Electronic_Apple_Laptop_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e28f5d83-9351-4043-a022-3f94f8a11a78",
+            "Value": {
+                "id": "886046b8-0832-4246-a3d5-adc9df95a4e0",
+                "resourcePath": "objects\\ObjAlienwareLaptop4\\ObjAlienwareLaptop4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e3d90bd1-d00a-4f68-8264-186e873d3ffa",
+            "Value": {
+                "id": "5795944b-c6fc-466b-b8e4-159c710d8f09",
+                "resourcePath": "objects\\OBJDUI\\OBJDUI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e403ea79-3f26-4255-b475-d97208cfee71",
+            "Value": {
+                "id": "ea3e27fe-9a6f-4fab-8f88-5404c63a71a6",
+                "resourcePath": "sounds\\startScreen\\startScreen.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e525534a-8264-40cb-8f62-afc5ce63e2f4",
+            "Value": {
+                "id": "0a54c247-ef40-423a-beca-548f137b88a8",
+                "resourcePath": "objects\\objHitbox\\objHitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e55f00ad-15e9-42eb-944d-01d5d88dbd38",
+            "Value": {
+                "id": "03f35ba6-8662-4630-8c8e-ebac0bdd4ba6",
+                "resourcePath": "objects\\Electronic_Apple_Monitor_05_Obj\\Electronic_Apple_Monitor_05_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5c93fb4-92eb-41b1-b691-168fb6bb0487",
+            "Value": {
+                "id": "d172afab-0cef-43d0-80ca-cd7c43e4513f",
+                "resourcePath": "objects\\ObjAppleLaptop2\\ObjAppleLaptop2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e86639a1-595b-470b-85ce-006c0b5247ee",
+            "Value": {
+                "id": "2868ef21-4b74-4e86-a8df-d6b7ae5d67e3",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e986431c-7fb9-4816-b26f-ae1c0ca0f8dc",
+            "Value": {
+                "id": "f8891b75-4d38-4e6e-b201-abf3b1126948",
+                "resourcePath": "sprites\\SprAilenware\\SprAilenware.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e99228bf-92d3-41f6-a2c2-2877da277ef6",
+            "Value": {
+                "id": "4b4e241d-4f06-4574-bbab-b86903dc4496",
+                "resourcePath": "sprites\\Electronic_Alienware_Laptop_05\\Electronic_Alienware_Laptop_05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb2f47f9-d513-4284-b1e2-525f68ae048c",
+            "Value": {
+                "id": "ba869835-a901-4a7e-aa33-88aa84d88d17",
+                "resourcePath": "objects\\ObjElectronic\\ObjElectronic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eb3253ef-ac21-498a-806c-e177db0a7a17",
+            "Value": {
+                "id": "e71d8681-8867-48a7-a53d-6b014ebdea0f",
+                "resourcePath": "objects\\ObjRazorLaptop4\\ObjRazorLaptop4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed03529b-e5f2-4dfc-ae1e-5e5f983d5846",
+            "Value": {
+                "id": "a6e70ed7-03ed-43e3-98ea-7c5b3486f350",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ef0c0aab-b43f-4041-b71e-452db7956ac9",
+            "Value": {
+                "id": "1203b325-33ee-4120-a5c0-6ad57c6172e9",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef675db8-71e3-447e-9178-f93ca744aec8",
+            "Value": {
+                "id": "0c0f6e54-76ba-4ccb-ab0b-6648c32c5134",
+                "resourcePath": "objects\\Electronic_Lenovo_Monitor04_Obj\\Electronic_Lenovo_Monitor04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "efeedeea-4662-443a-b3c9-28ec3f49b935",
+            "Value": {
+                "id": "ff6e51c0-84b1-4fca-91c7-02fe468daa16",
+                "resourcePath": "views\\efeedeea-4662-443a-b3c9-28ec3f49b935.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0c2bc3e-2035-412b-8e40-91b1b2971485",
+            "Value": {
+                "id": "849a9ec6-ceb8-4d34-9745-3dde9d122751",
+                "resourcePath": "objects\\ui_Frame\\ui_Frame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1493d7d-824a-4c6a-890a-b0e8beac87f5",
+            "Value": {
+                "id": "65fa41a9-aec2-44a1-a274-bd92c5f19905",
+                "resourcePath": "objects\\Electronic_Alienware_Laptop02_Obj\\Electronic_Alienware_Laptop02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1ec249f-e53d-4374-8b59-485dd2fb6226",
+            "Value": {
+                "id": "a76c75b9-ef32-43cd-bc7f-b409a3334ac4",
+                "resourcePath": "sprites\\Electronic_Samsung_Monitor_01\\Electronic_Samsung_Monitor_01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "22123759-ce01-450e-a823-fe9715a9dcf1",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f527f342-4150-4475-98b0-255be53c2a3a",
+            "Value": {
+                "id": "367a7cf5-acfe-4859-afbe-9f30ce7d6193",
+                "resourcePath": "objects\\Electronic_Apple_Monitor_03_Obj\\Electronic_Apple_Monitor_03_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f59cabb0-2db3-4f4d-a2e3-1fb247ebe11e",
+            "Value": {
+                "id": "3f2a911e-ed9c-4ad2-b524-cd06ed863dda",
+                "resourcePath": "objects\\Electronic_Apple_Monitor_01_Obj\\Electronic_Apple_Monitor_01_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5a4cbff-d7d0-46b9-adf7-a3d2133ed5dd",
+            "Value": {
+                "id": "3a33f521-c6d6-4205-8953-1d1042879acc",
+                "resourcePath": "objects\\ObjUI1\\ObjUI1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f9e3830e-982d-4105-878b-5a0a5c077f5f",
+            "Value": {
+                "id": "055aa2dc-ed72-4a8b-b97b-f5fd290af822",
+                "resourcePath": "objects\\ObjMonitor\\ObjMonitor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa5fa5a1-6bc2-421c-a5bb-130974a9d336",
+            "Value": {
+                "id": "127f56cc-9739-4ce0-ad30-fba735436456",
+                "resourcePath": "sprites\\sprite89\\sprite89.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa64ee0d-7517-40cd-b17f-97c0d7b98355",
+            "Value": {
+                "id": "f6dc7d80-6c8b-46d1-af76-eb1e61b18426",
+                "resourcePath": "objects\\Electronic_Apple_Laptop_02_Obj\\Electronic_Apple_Laptop_02_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fab0465b-c662-435d-98f7-1b3357491758",
+            "Value": {
+                "id": "3c449790-b1ca-4e16-94a7-d920953572d8",
+                "resourcePath": "objects\\objtext\\objtext.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb17d054-adb8-4a24-8322-5c929d69f3cf",
+            "Value": {
+                "id": "1b24e151-dbf2-4ff4-9646-f39004a4130c",
+                "resourcePath": "views\\fb17d054-adb8-4a24-8322-5c929d69f3cf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fbcbdbf1-3db0-4d56-8191-da68157aee25",
+            "Value": {
+                "id": "ebc85f3b-240f-42b5-ad0b-afe725a91f8a",
+                "resourcePath": "sprites\\Electronic_Apple_Laptop_02\\Electronic_Apple_Laptop_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbd54a43-96c5-4f7c-83fa-13f806212541",
+            "Value": {
+                "id": "d80cd47b-cb5c-437b-b666-246ea729faf1",
+                "resourcePath": "objects\\Electronic_Apple_Monitor_04_Obj\\Electronic_Apple_Monitor_04_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fbdfebcd-ec1c-4999-9eb2-9fdb5f0cd7dd",
+            "Value": {
+                "id": "dcaebe82-ec84-4f51-a1f1-fba0571691d7",
+                "resourcePath": "sprites\\Electronic_Ailenware_Monitor_03\\Electronic_Ailenware_Monitor_03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc3ba587-283b-4d7a-bac1-68ef518ac157",
+            "Value": {
+                "id": "096c7d60-3fab-4a0c-8864-582426deb4df",
+                "resourcePath": "sprites\\Electronic_Razor_Laptop_02\\Electronic_Razor_Laptop_02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fca855b5-ea47-46eb-82ca-4a5470306a2b",
+            "Value": {
+                "id": "81764cbb-aa24-49d7-875c-5ec4535a006a",
+                "resourcePath": "sprites\\sprclose\\sprclose.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd4797ea-3772-4cfe-a7c3-9d480846514b",
+            "Value": {
+                "id": "afc0a431-48e7-46a1-91de-c73b7058da6c",
+                "resourcePath": "objects\\ObjDellLaptop5\\ObjDellLaptop5.yy",
+                "resourceType": "GMObject"
+            }
+        }
+    ],
+    "script_order": [
+        "ca5bd7f6-1ff0-43b1-ac9a-73f4054c5841",
+        "ab881ef1-3586-43f1-bc8a-82f576e99894",
+        "0f020055-899b-4746-b2bf-8bd7c1b7168f",
+        "1be5e741-44c8-4f1b-879e-8e6720412146",
+        "19b10f3a-7c9a-462d-8000-d3a44d9c7044",
+        "3195dacd-94d6-4aa5-9731-ad69dd23d753",
+        "dce47ae5-e077-4a43-a9b5-dce56eb1f184"
+    ],
+    "tutorial": ""
+}
